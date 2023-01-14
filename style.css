@@ -134,7 +134,9 @@ body{
     border: none;
     border-radius: 10px;
 }
-
+.ff{
+    color: #ff8902;
+}
 /* SOME FACTS STYLES */
 .achivements{
     display: flex;
