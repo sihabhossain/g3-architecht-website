@@ -187,11 +187,23 @@ body{
     gap: 50px;
     filter: grayscale(100%);
 }
+
+/* TERMS AND CONDITIONS */
+.terms{
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+   
+}
+.terms ul li{
+    list-style: none;
+}
 /* FOOTER STYLE */
 .footer p{
     color: #727272;
     text-align: center;
-    margin: 150px;
+    margin: 100px;
     background-color: rgb(255, 213, 188);
     padding: 20px;
 }
@@ -285,5 +297,11 @@ body{
     margin-left: 30px;
     margin-right: 30px;
 }
-
+.terms{
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+   
+}
 }
