@@ -207,7 +207,7 @@ body{
     
    }
    .quick-list{
-    flex-direction: column-reverse;
+    flex-direction: column;
     margin: 85px 60px;
    }
    .features{
